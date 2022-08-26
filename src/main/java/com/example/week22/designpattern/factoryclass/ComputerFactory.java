@@ -1,9 +1,9 @@
-package com.example.week22.designpartten.factoryclass;
+package com.example.week22.designpattern.factoryclass;
 
-import com.example.week22.designpartten.constant.ComputerType;
-import com.example.week22.designpartten.subclass.PC;
-import com.example.week22.designpartten.subclass.Server;
-import com.example.week22.designpartten.superclass.Computer;
+import com.example.week22.designpattern.constant.ComputerType;
+import com.example.week22.designpattern.subclass.PC;
+import com.example.week22.designpattern.subclass.Server;
+import com.example.week22.designpattern.superclass.Computer;
 import org.springframework.stereotype.Component;
 
 @Component

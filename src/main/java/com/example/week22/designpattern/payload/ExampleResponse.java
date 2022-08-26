@@ -1,8 +1,7 @@
-package com.example.week22.designpartten.payload;
+package com.example.week22.designpattern.payload;
 
 import lombok.Data;
 
-import java.util.List;
 import java.util.Map;
 
 @Data

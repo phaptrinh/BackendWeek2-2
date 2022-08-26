@@ -1,6 +1,6 @@
-package com.example.week22.designpartten.subclass;
+package com.example.week22.designpattern.subclass;
 
-import com.example.week22.designpartten.superclass.Computer;
+import com.example.week22.designpattern.superclass.Computer;
 
 public class Server implements Computer {
 

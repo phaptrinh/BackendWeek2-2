@@ -96,11 +96,11 @@ API:
 ```json
 {
   "singleton": {
-    "computerFactory.toString()": "com.example.week22.designpartten.factoryclass.ComputerFactory@1da69096"
+    "computerFactory.toString()": "com.example.week22.designpattern.factoryclass.ComputerFactory@1da69096"
   },
   "factoryMethod": {
     "computer.getType()": "Server",
-    "computer.getClass()": "class com.example.week22.designpartten.subclass.Server"
+    "computer.getClass()": "class com.example.week22.designpattern.subclass.Server"
   }
 }
 ```
@@ -109,11 +109,11 @@ API:
 ```json
 {
   "singleton": {
-    "computerFactory.toString()": "com.example.week22.designpartten.factoryclass.ComputerFactory@1da69096"
+    "computerFactory.toString()": "com.example.week22.designpattern.factoryclass.ComputerFactory@1da69096"
   },
   "factoryMethod": {
     "computer.getType()": "PC",
-    "computer.getClass()": "class com.example.week22.designpartten.subclass.PC"
+    "computer.getClass()": "class com.example.week22.designpattern.subclass.PC"
   }
 }
 ```

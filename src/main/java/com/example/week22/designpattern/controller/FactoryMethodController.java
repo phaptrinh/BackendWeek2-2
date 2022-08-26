@@ -1,9 +1,9 @@
-package com.example.week22.designpartten.controller;
+package com.example.week22.designpattern.controller;
 
-import com.example.week22.designpartten.constant.ComputerType;
-import com.example.week22.designpartten.factoryclass.ComputerFactory;
-import com.example.week22.designpartten.payload.ExampleResponse;
-import com.example.week22.designpartten.superclass.Computer;
+import com.example.week22.designpattern.constant.ComputerType;
+import com.example.week22.designpattern.factoryclass.ComputerFactory;
+import com.example.week22.designpattern.payload.ExampleResponse;
+import com.example.week22.designpattern.superclass.Computer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
